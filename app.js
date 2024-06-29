@@ -17,7 +17,7 @@ navLink.forEach((link) =>
 );
 
 //seleccionador de desplazar hacia arriba
-const scrollUp = document.querySelectorAll("#scroll-up");
+const scrollUp = document.querySelector("#scroll-up");
 
 
 //Funcionalidad de desplazar hacia arriba
